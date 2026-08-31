@@ -1,0 +1,34 @@
+CENTRO MÉDICO VILLA BLANCA — web estática
+=========================================
+
+Archivos:
+  index.html      Inicio (portada)
+  servicios.html  Servicios
+  clientes.html   Opiniones (carrusel)
+  nosotros.html   Quiénes somos
+  contacto.html   Contacto y mapa
+  styles.css      Estilos
+  .nojekyll       Necesario para GitHub Pages
+
+Publicar en GitHub Pages
+------------------------
+1. Crea una cuenta en github.com y un repositorio nuevo, público,
+   llamado por ejemplo "centromedicovillablanca".
+2. En el repositorio: "Add file" > "Upload files" y arrastra TODOS
+   los archivos de esta carpeta (no la carpeta, su contenido).
+   Commit changes.
+3. Settings > Pages > Build and deployment:
+   Source = "Deploy from a branch", Branch = "main", carpeta "/ (root)".
+   Guarda.
+4. En un minuto la web estará en:
+   https://TU-USUARIO.github.io/centromedicovillablanca/
+5. Dominio propio (opcional): Settings > Pages > Custom domain.
+   Escribe tu dominio y apunta el DNS a GitHub Pages.
+
+Pendiente de revisar
+--------------------
+- Las dos fotos se cargan desde Google Maps. Si algún día dejan de
+  verse, sustituye la URL del <img> por un archivo propio subido
+  junto a estos HTML.
+- Falta aviso legal y política de privacidad (obligatorios en España
+  para una web de empresa).
