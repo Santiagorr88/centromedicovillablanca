@@ -8,6 +8,9 @@ Archivos:
   nosotros.html   Quiénes somos
   contacto.html   Contacto y mapa
   styles.css      Estilos
+  aviso-legal.html            Aviso legal
+  politica-de-privacidad.html Política de privacidad
+  politica-de-cookies.html    Política de cookies
   .nojekyll       Necesario para GitHub Pages
 
 Publicar en GitHub Pages
@@ -30,5 +33,13 @@ Pendiente de revisar
 - Las dos fotos se cargan desde Google Maps. Si algún día dejan de
   verse, sustituye la URL del <img> por un archivo propio subido
   junto a estos HTML.
-- Falta aviso legal y política de privacidad (obligatorios en España
-  para una web de empresa).
+- Las tres páginas legales tienen huecos marcados [COMPLETAR: ...]
+  en rojo: razón social, NIF, email de contacto, nº de registro
+  sanitario, director médico y nº de colegiado, y la fecha de la
+  última actualización. Hay que rellenarlos antes de publicar.
+- Obligaciones en España para esta web: identificación del titular
+  (art. 10 LSSI-CE), información sobre protección de datos (RGPD y
+  LOPDGDD 3/2018), política de cookies si se añade analítica, y
+  hojas de reclamaciones oficiales disponibles en el centro. Al ser
+  centro sanitario, también el nº de registro sanitario y el
+  director médico visibles.
